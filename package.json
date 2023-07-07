@@ -1,0 +1,13 @@
+{
+  "name": "extrinsic-js-calls-and-fetch-balance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "Arjun Porwal",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadex/blockchain-api": "^1.1.61",
+    "@polkadot/api": "^10.9.1",
+    "@polkadot/extension-dapp": "^0.46.5"
+  }
+}
